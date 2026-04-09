@@ -1,0 +1,30 @@
+# === MikroC PRO Build Artifacts ===
+*.asm
+*.cp
+*.mcl
+*.hex
+*.lst
+*.log
+*.bmk
+*.dct
+*.dbg
+*.dbt
+*.dlt
+*.user.dic
+*_callertable.txt
+*.ini
+*.ccl
+*.pma
+*.brk
+
+# === Project Files ===
+*.cfg
+
+# === OS & IDE mess ===
+.DS_Store
+Thumbs.db
+*.tmp
+
+
+
+*.bat
